@@ -11,6 +11,6 @@ Overview of key background around Machine Learning and preparing you to be
 successful in the rest of this course.
 
 - Notebooks:
-  - [C1-Introduction.ipynb](../C1-Introduction.ipynb)
+  - [C1-Introduction.ipynb](../notebooks/C1-Introduction.ipynb)
 
 [1]: https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189
