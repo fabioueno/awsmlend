@@ -13,6 +13,8 @@ successful in the rest of this course.
 - Notebooks:
   - [C1-Introduction.ipynb](../notebooks/C1-Introduction.ipynb)
 
+---
+
 ### 02. Exploratory Data Analysis
 
 Use AWS SageMaker Studio to access S3 datasets and perform data analysis,
