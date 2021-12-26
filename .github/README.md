@@ -31,4 +31,19 @@ using SageMaker Ground Truth.
   - [E03-Data.jsonl](../exercises/E03-Data.jsonl) (Raw)
   - [E04.ipynb](../exercises/E04.ipynb) (Raw) & [E04-Solved.ipynb](../exercises/E04-Solved.ipynb)
 
+---
+
+### 03. Machine Learning Concepts
+
+In this lesson you'll learn about ML Lifecycles, how to differentiate between
+Supervised vs. Unsupervised ML, regression methods, and classification methods.
+
+- Notebooks:
+  - [C3-Concepts.ipynb](../notebooks/C3-Concepts.ipynb)
+
+- Exercises:
+  - [E05.ipynb](../exercises/E05.ipynb) (Raw) & [E05-Solved.ipynb](../exercises/E05-Solved.ipynb)
+  - [E06.ipynb](../exercises/E06.ipynb) (Raw) & [E06-Solved.ipynb](../exercises/E06-Solved.ipynb)
+  - [E07.ipynb](../exercises/E07.ipynb) (Raw) & [E07-Solved.ipynb](../exercises/E07-Solved.ipynb)
+
 [1]: https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189
