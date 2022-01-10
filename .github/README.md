@@ -46,4 +46,21 @@ Supervised vs. Unsupervised ML, regression methods, and classification methods.
   - [E06.ipynb](../exercises/E06.ipynb) (Raw) & [E06-Solved.ipynb](../exercises/E06-Solved.ipynb)
   - [E07.ipynb](../exercises/E07.ipynb) (Raw) & [E07-Solved.ipynb](../exercises/E07-Solved.ipynb)
 
+---
+
+### 04. Model Deployment Workflow
+
+In this lesson, you'll load a dataset, clean/create features, train a
+regression/classification model with Scikit Learn, evaluate a model and tune a
+model's hyperparameter.
+
+- Notebooks:
+  - [C4-Workflow.ipyb](../notebooks/C4-Workflow.ipynb)
+
+- Exercises:
+  - [E08.ipynb](../exercises/E08.ipynb) (Raw) & [E08-Solved.ipynb](../exercises/E08-Solved.ipynb)
+  - [E09.ipynb](../exercises/E09.ipynb) (Raw) & [E09-Solved.ipynb](../exercises/E09-Solved.ipynb)
+  - [E10.ipynb](../exercises/E10.ipynb) (Raw) & [E10-Solved.ipynb](../exercises/E10-Solved.ipynb)
+  - [E11.ipynb](../exercises/E11.ipynb) (Raw) & [E11-Solved.ipynb](../exercises/E11-Solved.ipynb)
+
 [1]: https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189
