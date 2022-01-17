@@ -63,4 +63,20 @@ model's hyperparameter.
   - [E10.ipynb](../exercises/E10.ipynb) (Raw) & [E10-Solved.ipynb](../exercises/E10-Solved.ipynb)
   - [E11.ipynb](../exercises/E11.ipynb) (Raw) & [E11-Solved.ipynb](../exercises/E11-Solved.ipynb)
 
+---
+
+### 05. Algorithms & Tools
+
+In this lesson you'll train, test, and optimize on liner, tree-based, XGBoost,
+and AutoGluon Tabular models. And you will also create a model using SageMaker
+Jumpstart.
+
+- Notebooks:
+  - [C5-Algorithms-Tools.ipynb](../notebooks/C5-Algorithms-Tools.ipynb)
+
+- Exercises:
+  - [E12.ipynb](../exercises/E12.ipynb) (Raw) & [E12-Solved.ipynb](../exercises/E12-Solved.ipynb)
+  - [E13.ipynb](../exercises/E13.ipynb) (Raw) & [E13-Solved.ipynb](../exercises/E13-Solved.ipynb)
+  - [E14.ipynb](../exercises/E14.ipynb) (Raw) & [E14-Solved.ipynb](../exercises/E14-Solved.ipynb)
+
 [1]: https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189
