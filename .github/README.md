@@ -55,7 +55,7 @@ regression/classification model with Scikit Learn, evaluate a model and tune a
 model's hyperparameter.
 
 - Notebooks:
-  - [C4-Workflow.ipyb](../notebooks/C4-Workflow.ipynb)
+  - [C4-Workflow.ipynb](../notebooks/C4-Workflow.ipynb)
 
 - Exercises:
   - [E08.ipynb](../exercises/E08.ipynb) (Raw) & [E08-Solved.ipynb](../exercises/E08-Solved.ipynb)
